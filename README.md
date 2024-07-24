@@ -5,7 +5,7 @@
 
 [base.py](https://github.com/danylqap-167/-PJ-04-/blob/main/base.py) содержит реализацию шаблона PageObject для Python.
 
-pages/auth_page.py страница авторизации для работы с автотестами.
+[auth_page.py](https://github.com/danylqap-167/-PJ-04-/blob/main/auth_page.py) страница авторизации для работы с автотестами.
 
 pages/registration_page.py страница регистрации для работы с автотестами.
 
