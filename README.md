@@ -1,6 +1,6 @@
 Файл
 
-[(https://github.com/danylqap-167/-PJ-04-/blob/main/conftest.py)](https://github.com/danylqap-167/-PJ-04-/blob/main/conftest.py) содержит весь необходимый код для отслеживания неудачных тестовых примеров и создания скриншота страницы на случай, если какой-либо тестовый пример завершится неудачей.
+[conftest.py]https://github.com/danylqap-167/-PJ-04-/blob/main/conftest.py содержит весь необходимый код для отслеживания неудачных тестовых примеров и создания скриншота страницы на случай, если какой-либо тестовый пример завершится неудачей.
 
 
 [base.py](https://github.com/danylqap-167/-PJ-04-/blob/main/base.py) содержит реализацию шаблона PageObject для Python.
