@@ -9,7 +9,7 @@
 
 [registration_page.py](https://github.com/danylqap-167/-PJ-04-/blob/main/registration_page.py) страница регистрации для работы с автотестами.
 
-pages/elements.py содержит вспомогательный класс для определения веб-элементов на веб-страницах.
+[elements.py](https://github.com/danylqap-167/-PJ-04-/blob/main/elements.py) содержит вспомогательный класс для определения веб-элементов на веб-страницах.
 
 autotests_rostelecom.py содержит тесты веб-интерфейса для Ростелекома (https://b2c.passport.rt.ru/)
 
