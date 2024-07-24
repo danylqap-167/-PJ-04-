@@ -11,7 +11,7 @@
 
 [elements.py](https://github.com/danylqap-167/-PJ-04-/blob/main/elements.py) содержит вспомогательный класс для определения веб-элементов на веб-страницах.
 
-autotests_rostelecom.py содержит тесты веб-интерфейса для Ростелекома (https://b2c.passport.rt.ru/)
+[autotests_rostelecom.py](https://github.com/danylqap-167/-PJ-04-/blob/main/autotests_rostelecom.py) содержит тесты веб-интерфейса для Ростелекома (https://b2c.passport.rt.ru/)
 
 Описание автотестов
 test_start_page_is_correct
